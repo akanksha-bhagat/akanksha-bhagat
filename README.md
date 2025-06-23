@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-<!--
 M.Tech in AI & ML from Vellore Institute of Technology| Former Intern at Continental Automotive | Specializing in Chatbots, NLP, and AI Deployment
 
 ## 🚀 Skills
@@ -31,4 +30,4 @@ M.Tech in AI & ML from Vellore Institute of Technology| Former Intern at Contine
 - Email: akankshabhagat2127@gmail.com
 - LinkedIn: [linkedin.com/in/akanksha-bhagat](https://linkedin.com/in/akanksha-bhagat)
 
--->
+
