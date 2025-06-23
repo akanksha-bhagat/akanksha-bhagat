@@ -1,16 +1,34 @@
 ## Hi there 👋
 
+
 <!--
-**akanksha-bhagat/akanksha-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech in AI & ML from Vellore Institute of Technology| Former Intern at Continental Automotive | Specializing in Chatbots, NLP, and AI Deployment
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Programming Languages
+- **Python**, **Java**, **SQL**
+
+### ML/AI Frameworks & GenAI
+- **TensorFlow**, **PyTorch**, **Keras**, **Scikit-learn**
+- **Transformers**, **LLMs**, **LangChain**, **Autoencoders**
+
+### MLOps & Deployment
+- **Flask**, **FastAPI**, **Apache**, **PySpark**, **Streamlit**, **XAMPP**
+- **Oracle DB**, **Cloud (AWS/Azure - basic knowledge)**
+
+### NLP Techniques
+- **TF-IDF**, **Cosine Similarity**, **Text Classification**, **Tokenization**
+
+### Postgraduate Level Knowledge
+- **Data Structures & Algorithms**
+- **Machine Learning**, **Deep Learning**, **Computer Vision (Machine Vision)**
+- **Natural Language Processing (NLP)**
+- **Database Systems**, **Computer Networks**
+
+
+## 📫 Contact
+- Email: akankshabhagat2127@gmail.com
+- LinkedIn: [linkedin.com/in/akanksha-bhagat](https://linkedin.com/in/akanksha-bhagat)
+
 -->
