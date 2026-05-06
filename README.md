@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-M.Tech in AI & ML from Vellore Institute of Technology| Former Intern at Continental Automotive | Specializing in Chatbots, NLP, and AI Deployment
+M.Tech in AI & ML from Vellore Institute of Technology| Former Intern at Continental Automotive | Specializing in Python, Machine Learning, NLP,Data Science 
 
 ## 🚀 Skills
 
